@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "file": "test.dart.js",
+  "sourceRoot": "",
+  "sources": ["/opt/dart-sdk/lib/_internal/lib/js_primitives.dart","test.dart","/opt/dart-sdk/lib/_internal/lib/internal_patch.dart"],
+  "names": ["printString","main","printToConsole"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;E;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;iF;;GAoBAA,yDAIIA;mFAOAA;kCAKAA;qCAMAA;kDAOJA;;GCjDAC,WCcEC,cDZFD;;A;A;A;A;A;A;;;;A;;;;;;;;;;;;;;;;;;;;;;;;;;;;C"
+}

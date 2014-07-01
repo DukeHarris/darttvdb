@@ -1,2 +1,4 @@
 name: darttvdb
-description: A pub package 
+description: A pub package
+dependencies:
+  xml2json: ">=2.0.2 <3.0.0"
