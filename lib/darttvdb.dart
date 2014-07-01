@@ -17,7 +17,7 @@ class Tvdb {
 
 	Future getSeries(String searchString){
 
-		String url = this._apiUrl + "/api/GetSeries.php?seriesname=weeds";
+		String url = this._apiUrl + "/api/GetSeries.php?seriesname=" + searchString;
 		print(url);
 
 		return new HttpClient().getUrl(Uri.parse(url))
